@@ -1,0 +1,11 @@
+{
+  "name": "pollen-ai",
+  "displayName": "Pollen",
+  "version": "1.0.0",
+  "description": "Run your store's AI readiness from Claude: see how ready your Shopify or WooCommerce catalog is for AI shopping agents, apply the fixes, enrich products, publish to Google and Meta, and check real proof of AI traffic.",
+  "author": { "name": "Elytron Labs", "url": "https://elytron.in" },
+  "homepage": "https://pollen.elytron.in",
+  "repository": "https://github.com/elytronlabs/pollen-plugin",
+  "license": "MIT",
+  "keywords": ["ecommerce", "shopify", "woocommerce", "ai-agents", "product-data", "seo", "catalog"]
+}
